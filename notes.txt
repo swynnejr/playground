@@ -1,0 +1,3 @@
+{% for x in range(0,times): %}
+    <p>{{ phrase }}</p>
+{% endfor %}
